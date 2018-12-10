@@ -58,4 +58,7 @@ typings/
 .env
 
 # next.js build output
+
+#node_modules/
 .next
+*.log
